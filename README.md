@@ -1,2 +1,4 @@
 # madaratheLedend-r
-r-description
+hi humans!
+
+What is the difference between lying pig and politician? Letter "F".
